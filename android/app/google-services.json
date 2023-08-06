@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79244580972",
+    "project_id": "sahajapp-c330e",
+    "storage_bucket": "sahajapp-c330e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79244580972:android:e89a1bda36cac310732049",
+        "android_client_info": {
+          "package_name": "com.example.sahajapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79244580972-jphnigbbk9pruuph3810g3mfd20hn6ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpK3p7j7KeKAodhdA8FfQJVnUZQAlkViA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79244580972-jphnigbbk9pruuph3810g3mfd20hn6ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
